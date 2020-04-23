@@ -6,3 +6,7 @@
 * Laurent Mignon <laurent.mignon@acsone.eu>
 * Laetitia Gangloff <laetitia.gangloff@acsone.eu>
 * Cédric Pigeon <cedric.pigeon@acsone.eu>
+
+* `Druidoo <https://www.druidoo.io>`_
+
+  * Iván Todorovich <ivan.todorovich@druidoo.io>
